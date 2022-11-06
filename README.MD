@@ -48,6 +48,7 @@ template_matching.save_screenshots_for_creating_needle_images(
 
 
 ```python
+$pip install better-template-matching
 # After you are done, start the annotation tool (https://github.com/drainingsun/ybat) to crop the icons quickly.
 # the requested class file (ybat) should look like this. It can be saved as txt
 """
