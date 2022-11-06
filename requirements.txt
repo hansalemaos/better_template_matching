@@ -11,6 +11,5 @@ pandas
 regex
 requests
 scikit_image
-skimage
 ujson
 windows_adb_screen_capture
